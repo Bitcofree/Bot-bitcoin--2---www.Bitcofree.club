@@ -4,9 +4,10 @@ var btc='MI BILLETERA BITCOIN'; // billetera btc
 var apikey= 'API 9kw' //mi api key 9kw
 
 var widraw=300; // cantidad de satoshis para solicitar pago a faucet hub
-var direct='C:\\Captcha'; // Sitio donde se guardara la imagen del captcha
-
-
+var direct='C:\\Captcha\\'; // Sitio donde se guardara la imagen del captcha
+/*
+1 Para faucet activada , 0 para desactivar
+*/
 var hkc=0;// hk();
 var bitcobal2l=0; // bitcoball();
 var goldenfauc=0; // goldenfaucet();
